@@ -1,3 +1,7 @@
-# teste-emblema
+It's a test reposiory
 
-just a test
+Languanges:
+- Ruby
+- Python
+- Java
+- SQL
