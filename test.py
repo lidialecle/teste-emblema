@@ -1,6 +1,18 @@
 x = 2
 y = 4
 
-media = (x + y) / 2
+media1 = (x + y) / 2
 
-print(meida)
+print(media1)
+
+x = 3
+
+media2 = (x + y) / 2
+
+print(media2)
+
+y = 3
+
+media3 = (x + y) / 2
+
+print(media3)
